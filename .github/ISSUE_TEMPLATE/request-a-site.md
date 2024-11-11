@@ -2,7 +2,7 @@
 name: Request a site
 about: Request a guide for a site
 title: "[Site] Site name here"
-labels: ''
+labels: newsite
 assignees: ''
 
 ---
